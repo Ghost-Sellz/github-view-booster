@@ -2,8 +2,6 @@
 
 
 ## 🔥 Features 🔥
-- Fully httpx Request View Booster
-- Support High Threads (100-1000)
 - Proxyless
 - You Can Use It AFK Without Worry
 
